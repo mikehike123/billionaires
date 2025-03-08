@@ -9,7 +9,7 @@ export default function Layout({ children }: LayoutProps) {
   return (
     <div>
       {children}
-      <GoogleAnalytics gaId="G-DEWQ3CNV47" />
+      <GoogleAnalytics gaId="G-HNGNNCHSRJ" />
     </div>
   );
 }
